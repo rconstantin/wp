@@ -1,0 +1,8 @@
+[09-Mar-2017 03:44:36 UTC] All-in-One Event Calendar: Undefined index: Feb @ /home/robbiedi/public_html/wp/wp-content/plugins/all-in-one-event-calendar/app/view/calendar/view/month.php:177 #8
+[09-Mar-2017 03:44:43 UTC] All-in-One Event Calendar: Undefined index: Feb @ /home/robbiedi/public_html/wp/wp-content/plugins/all-in-one-event-calendar/app/view/calendar/view/month.php:177 #8
+[09-Mar-2017 03:45:42 UTC] All-in-One Event Calendar: Undefined index: Feb @ /home/robbiedi/public_html/wp/wp-content/plugins/all-in-one-event-calendar/app/view/calendar/view/month.php:177 #8
+[09-Mar-2017 04:00:18 UTC] All-in-One Event Calendar: Undefined index: Feb @ /home/robbiedi/public_html/wp/wp-content/plugins/all-in-one-event-calendar/app/view/calendar/view/month.php:177 #8
+[09-Mar-2017 13:38:51 UTC] All-in-One Event Calendar: Undefined index: Feb @ /home/robbiedi/public_html/wp/wp-content/plugins/all-in-one-event-calendar/app/view/calendar/view/month.php:177 #8
+[12-Mar-2017 15:56:27 UTC] PHP Notice:  Undefined index: title in /home/robbiedi/public_html/wp/wp-content/plugins/weather-for-us-widget/index.php on line 180
+[12-Mar-2017 15:56:59 UTC] PHP Notice:  Undefined index: title in /home/robbiedi/public_html/wp/wp-content/plugins/weather-for-us-widget/index.php on line 180
+[12-Mar-2017 16:00:32 UTC] PHP Notice:  Undefined index: title in /home/robbiedi/public_html/wp/wp-content/plugins/weather-for-us-widget/index.php on line 180
